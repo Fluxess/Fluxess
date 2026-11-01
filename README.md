@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4AF626&background=00000000&center=true&vCenter=true&width=500&height=100&lines=dragov@osint:~%24+whoami;OSINT+Investigator+🔍;Vibe+Coder+🎧;Writing+useful+stuff...;Target+Acquired.+🎯" alt="Typing SVG" />
+</p>
 
-<!--
-**Fluxess/Fluxess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Hey there! 👋 I am Dragov.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔍 **OSINT**: Исследую открытые данные и цифровые следы.
+* 🎧 **Vibe coding**: Кожу под настроение, тестирую безумные идеи и нейронки.
+* 🛠 **Pet projects**: Иногда превращаю эксперименты в реально полезные утилиты и сервисы.
+
+<blockquote>
+<b>Не умеешь — не исполняй.</b>
+</blockquote>
